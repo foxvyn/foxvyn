@@ -1,72 +1,57 @@
-![Foxvyn Header](https://capsule-render.vercel.app/api?type=venom&color=0:171717,50:7f1d1d,100:ef4444&height=200&section=header&text=FOXVYN&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20CYBERSECURITY&descSize=13&descAlignY=68&stroke=ef4444&strokeWidth=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Foxvyn | Building ideas into intelligent solutions. Focused on software engineering, AI, cybersecurity, and full-stack development." src="light.svg" width="1180">
+</picture>
 
-<div align="center">
+<h1 align="center">Hey, I'm Foxvyn 👋</h1>
 
-### Building ideas into intelligent solutions.
+<p align="center">
+  <strong>Building ideas into intelligent solutions.</strong><br>
+  Software Engineering · AI · Cybersecurity · Full-Stack Development
+</p>
 
-*Software Developer · AI Enthusiast · Security Explorer*
+## About
 
-[![GitHub](https://img.shields.io/badge/GitHub-foxvyn-181717?style=flat-square&logo=github)](https://github.com/foxvyn)
-[![Profile Views](https://komarev.com/ghpvc/?username=foxvyn&style=flat-square&color=ef4444&label=PROFILE+VIEWS)](https://github.com/foxvyn)
+I'm an Information Technology undergraduate at President University interested in building practical software, exploring AI-driven solutions, and understanding how systems can be made more secure. I enjoy taking ideas from problem definition through implementation and refinement.
 
-</div>
+## Featured Projects
 
----
+### Tinjob
+An AI-assisted career platform concept that brings together CV scoring, aptitude assessments, skill-gap guidance, and job recommendations.
 
-## `$ whoami`
+### AI-Assisted Cybersecurity Risk Assessment & Security Audit Platform
+A platform concept focused on supporting cybersecurity risk evaluation and security-audit workflows with AI-assisted analysis.
 
-I'm an Information Technology undergraduate interested in building practical software, exploring artificial intelligence, and understanding how to make digital systems more secure.
+### Malware Detection Application
+An application project exploring hash-based malware detection and real-time detection logic.
 
-I enjoy turning ideas into functional applications, improving workflows through automation, and exploring technologies that solve real-world problems.
+### The Kondangans
+A B2B catering marketplace concept designed to connect businesses with catering providers and support the ordering workflow.
 
-- **Building:** Web applications and software solutions.
-- **Exploring:** AI, intelligent systems, and cybersecurity.
-- **Learning:** New technologies, engineering practices, and better ways to build.
+> Project descriptions are summarized here. Add links to the corresponding public repositories or demos when they are available.
 
-## `$ tech-stack`
+## Tech Stack & Tools
 
-**Languages & Development**
+**Languages and development:** Python · JavaScript · C++ · Java · Kotlin · React · Tailwind CSS  
+**Platforms and tools:** Supabase · Git · Linux · Wireshark · Autopsy
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+*This list reflects technologies and tools used across projects and coursework, not a claim of equal proficiency in every item.*
 
-**Web & Database**
+## Current Focus
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+- Building maintainable full-stack applications.
+- Exploring practical AI integrations.
+- Learning cybersecurity, risk assessment, and digital forensics.
 
-**Tools & Security**
+## Activity
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+GitHub contribution activity is available on my profile. Automated metrics and achievement panels can be added after configuring their respective GitHub Actions workflows, keeping this README free of fabricated statistics.
 
-## `$ featured-projects`
+## Connect
 
-Projects that demonstrate my interests in software engineering and applied technology.
-
-> Project showcases will be updated with selected repositories, technical details, and live demos where available.
-
-## `$ github-activity`
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=foxvyn&theme=dark&hide_border=true&ring=ef4444&fire=f87171&currStreakLabel=ef4444)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxvyn&show_icons=true&theme=dark&hide_border=true&title_color=ef4444&icon_color=f87171&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxvyn&layout=compact&theme=dark&hide_border=true&title_color=ef4444)
-
-</div>
+- GitHub: [@foxvyn](https://github.com/foxvyn)
 
 ---
 
-<div align="center">
-
-*Curious mind. Relentless builder.*
-
-</div>
+<p align="center"><sub>Learn continuously. Build thoughtfully. Improve relentlessly.</sub></p>

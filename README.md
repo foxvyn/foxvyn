@@ -38,16 +38,6 @@ A B2B catering marketplace concept designed to connect businesses with catering 
 
 *This list reflects technologies and tools used across projects and coursework, not a claim of equal proficiency in every item.*
 
-
-<div align="center">
-
-## GitHub Activity
-
-<img src="./github-metrics.svg" alt="Foxvyn GitHub Metrics" width="100%" />
-
-</div>
-
-
 ## Current Focus
 
 - Building maintainable full-stack applications.
@@ -57,6 +47,14 @@ A B2B catering marketplace concept designed to connect businesses with catering 
 ## Activity
 
 GitHub contribution activity is available on my profile. Automated metrics and achievement panels can be added after configuring their respective GitHub Actions workflows, keeping this README free of fabricated statistics.
+
+<div align="center">
+
+## GitHub Activity
+
+<img src="./github-metrics.svg" alt="Foxvyn GitHub Metrics" width="100%" />
+
+</div>
 
 ## Connect
 

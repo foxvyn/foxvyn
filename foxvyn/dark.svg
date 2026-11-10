@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Tio Muhammad Rizky — Foxvyn</title>
+<desc id="desc">Animated dark terminal-inspired profile banner. It presents Tio Muhammad Rizky's interests in software engineering, AI, cybersecurity, and full-stack development through a connected systems map.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080a10"/><stop offset=".58" stop-color="#11131c"/><stop offset="1" stop-color="#1c0c14"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7186"/><stop offset=".55" stop-color="#f43f5e"/><stop offset="1" stop-color="#a52b4c"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#191c27"/><stop offset="1" stop-color="#10121a"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#f43f5e" stop-opacity=".24"/><stop offset="1" stop-color="#f43f5e" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#cbd5e1" stroke-opacity=".045"/></pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
+  <clipPath id="frame"><rect x="28" y="24" width="1124" height="562" rx="20"/></clipPath>
+</defs>
+<rect width="1180" height="610" rx="24" fill="url(#bg)"/><rect width="1180" height="610" rx="24" fill="url(#grid)"/>
+<circle cx="930" cy="260" r="330" fill="url(#halo)"/>
+<g clip-path="url(#frame)">
+  <rect x="28" y="24" width="1124" height="562" rx="20" fill="none" stroke="#3b4050"/>
+  <path d="M28 76H1152" stroke="#343947"/>
+  <circle cx="56" cy="50" r="5" fill="#ff5f57"/><circle cx="74" cy="50" r="5" fill="#febc2e"/><circle cx="92" cy="50" r="5" fill="#28c840"/>
+  <rect x="414" y="36" width="350" height="28" rx="8" fill="#0c0f17" stroke="#343947"/>
+  <circle cx="431" cy="50" r="3" fill="#fb526f"/>
+  <text x="445" y="54" fill="#aeb7ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">foxvyn / profile.core</text>
+  <text x="1124" y="54" text-anchor="end" fill="#78839a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">PROFILE SYSTEM · ONLINE</text>
+
+  <!-- Identity terminal -->
+  <rect x="52" y="100" width="570" height="448" rx="15" fill="url(#panel)" stroke="#383d4d"/>
+  <path d="M52 143H622" stroke="#353a49"/>
+  <text x="78" y="127" fill="#929db2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">01 / IDENTITY.TERMINAL</text>
+  <circle cx="594" cy="123" r="4" fill="#fb526f"><animate attributeName="opacity" values="1;.25;1" dur="2.1s" repeatCount="indefinite"/></circle>
+  <text x="80" y="183" fill="#fb647b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">&gt; whoami</text>
+  <text x="78" y="244" fill="#f5f6fa" font-family="Inter, ui-sans-serif, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.4">Tio Muhammad Rizky</text>
+  <rect x="80" y="264" width="76" height="3" rx="1.5" fill="url(#red)"/>
+  <text x="80" y="302" fill="#e0e4ed" font-family="Inter, ui-sans-serif, Arial, sans-serif" font-size="19">Building ideas into intelligent solutions.</text>
+  <text x="80" y="350" fill="#8b96aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">CURRENT FOCUS</text>
+  <g font-family="Inter, ui-sans-serif, Arial, sans-serif" font-size="12.5">
+    <rect x="80" y="369" width="188" height="36" rx="8" fill="#291722" stroke="#854052"/><circle cx="97" cy="387" r="3.5" fill="#fb647b"/><text x="110" y="391" fill="#f5dfe5">Software Engineering</text>
+    <rect x="278" y="369" width="86" height="36" rx="8" fill="#241b2c" stroke="#654b79"/><circle cx="295" cy="387" r="3.5" fill="#c49aff"/><text x="308" y="391" fill="#eee3ff">AI</text>
+    <rect x="374" y="369" width="154" height="36" rx="8" fill="#19272b" stroke="#3b7071"/><circle cx="391" cy="387" r="3.5" fill="#6bd9d1"/><text x="404" y="391" fill="#d9f4f1">Cybersecurity</text>
+    <rect x="80" y="415" width="206" height="36" rx="8" fill="#1c2131" stroke="#485579"/><circle cx="97" cy="433" r="3.5" fill="#9eb0ff"/><text x="110" y="437" fill="#e2e8ff">Full-Stack Development</text>
+  </g>
+  <path d="M80 480H594" stroke="#343947" stroke-dasharray="3 7"/>
+  <text x="80" y="510" fill="#8b96aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">$ learn  →  build  →  secure  →  improve</text>
+  <rect x="475" y="499" width="8" height="15" rx="1" fill="#fb526f"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+  <text x="80" y="532" fill="#667188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">IDENTITY: FOXVYN</text>
+
+  <!-- Connected systems map -->
+  <rect x="644" y="100" width="484" height="448" rx="15" fill="#0d121c" stroke="#383d4d"/>
+  <path d="M644 143H1128" stroke="#353a49"/>
+  <text x="670" y="127" fill="#929db2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">02 / SYSTEM.INFO</text>
+  <text x="1100" y="127" text-anchor="end" fill="#fb647b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">LIVE MAP</text>
+  <text x="670" y="174" fill="#69758d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">IDEAS BECOME SYSTEMS WHEN THEY CONNECT</text>
+  <g fill="none" stroke="#566078" stroke-opacity=".7" stroke-width="1.3">
+    <path d="M886 322L756 246L750 385L886 322L1017 242L1026 388L886 322L886 455"/>
+    <path d="M756 246L1017 242M750 385L1026 388M756 246L886 455M1017 242L886 455" stroke-dasharray="4 7"/>
+  </g>
+  <g fill="none" stroke="url(#red)" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 12">
+    <path d="M750 385L886 322L1017 242"><animate attributeName="stroke-dashoffset" values="0;-34" dur="3.2s" repeatCount="indefinite"/></path>
+    <path d="M756 246L886 322L1026 388"><animate attributeName="stroke-dashoffset" values="34;0" dur="3.8s" repeatCount="indefinite"/></path>
+  </g>
+  <circle cx="886" cy="322" r="52" fill="#f43f5e" opacity=".13" filter="url(#glow)"><animate attributeName="r" values="42;58;42" dur="4.2s" repeatCount="indefinite"/></circle>
+  <circle cx="886" cy="322" r="34" fill="#171c29" stroke="#fb647b" stroke-width="1.5"/>
+  <circle cx="886" cy="322" r="25" fill="none" stroke="#fb647b" stroke-opacity=".6" stroke-dasharray="3 5"><animateTransform attributeName="transform" type="rotate" from="0 886 322" to="360 886 322" dur="18s" repeatCount="indefinite"/></circle>
+  <text x="886" y="326" text-anchor="middle" fill="#fff1f4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">FOXVYN</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <circle cx="756" cy="246" r="19" fill="#241b2c" stroke="#bd91f7"/><text x="756" y="250" fill="#eee3ff" font-size="9">AI</text>
+    <circle cx="750" cy="385" r="19" fill="#19272b" stroke="#6bd9d1"/><text x="750" y="389" fill="#d9f4f1" font-size="8">SEC</text>
+    <circle cx="1017" cy="242" r="19" fill="#291722" stroke="#fb647b"/><text x="1017" y="246" fill="#f5dfe5" font-size="8">DEV</text>
+    <circle cx="1026" cy="388" r="19" fill="#1c2131" stroke="#9eb0ff"/><text x="1026" y="392" fill="#e2e8ff" font-size="8">WEB</text>
+    <circle cx="886" cy="455" r="19" fill="#1d2330" stroke="#8799bd"/><text x="886" y="459" fill="#e1e8f5" font-size="8">UX</text>
+  </g>
+  <circle r="4" fill="#fff"><animateMotion dur="7s" repeatCount="indefinite" path="M756 246L886 322L1017 242"/></circle>
+  <circle r="3" fill="#fb647b"><animateMotion dur="8s" repeatCount="indefinite" path="M750 385L886 322L1026 388"/></circle>
+  <path d="M670 492H1100" stroke="#343947"/>
+  <text x="670" y="518" fill="#a8b3c8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">CURIOUS BY DEFAULT</text>
+  <text x="1100" y="518" text-anchor="end" fill="#77839b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">ideas in motion_</text>
+  <rect x="644" y="100" width="2" height="448" fill="#fb647b" opacity="0"><animate attributeName="x" values="644;1128;644" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.18;0" dur="10s" repeatCount="indefinite"/></rect>
+  <path d="M28 570H1152" stroke="#fb526f" stroke-opacity=".55"/>
+  <rect x="28" y="568" width="180" height="3" rx="1.5" fill="url(#red)"><animate attributeName="width" values="80;340;80" dur="8s" repeatCount="indefinite"/></rect>
+</g>
+<text x="590" y="600" text-anchor="middle" fill="#78839a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="2.1">TIO MUHAMMAD RIZKY  /  BUILD WITH PURPOSE · STAY CURIOUS</text>
+</svg>

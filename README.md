@@ -11,7 +11,8 @@
 *Building ideas into intelligent solutions.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-foxvyn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foxvyn)
-[![Followers](https://img.shields.io/github/followers/foxvyn?style=for-the-badge&logo=github&label=Follow&color=24292f)](https://github.com/foxvyn?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiomuhammadrizky/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-BB2528?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiomuhammadrizky321@gmail.com)
 
 </div>
 

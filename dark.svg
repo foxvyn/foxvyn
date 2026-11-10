@@ -28,7 +28,7 @@
     <text x="80" y="131" fill="#a4a5b2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">TERMINAL  /  IDENTITY</text>
     <circle cx="657" cy="126" r="3.5" fill="#f0445e"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
     <text x="82" y="185" fill="#ef445d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">&gt; whoami</text>
-    <text x="82" y="245" fill="#f4f4f6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700" letter-spacing="-2">FOXVYN</text>
+    <text x="82" y="245" fill="#f4f4f6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700" letter-spacing="-2">Tio Muhammad Rizky</text>
     <rect x="82" y="263" width="54" height="3" rx="1.5" fill="url(#redGlow)"/>
     <text x="82" y="297" fill="#d4d4dc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Building ideas into</text>
     <text x="82" y="321" fill="#d4d4dc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">intelligent solutions<tspan fill="#f0445e">.</tspan></text>

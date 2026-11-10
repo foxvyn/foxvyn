@@ -1,4 +1,3 @@
-
 name: Foxvyn GitHub Metrics
 
 on:
@@ -26,7 +25,7 @@ jobs:
           config_timezone: Asia/Jakarta
           config_display: regular
           config_octicon: yes
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, isocalendar, languages
 
           plugin_languages: yes
           plugin_languages_limit: 5
@@ -34,3 +33,6 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_colors: github
           plugin_languages_details: percentage
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

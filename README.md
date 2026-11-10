@@ -224,28 +224,15 @@ Coursework-based practical exploration of digital-evidence examination and netwo
 
 ## GitHub Insights
 
-<sub>Automatically refreshed by GitHub Actions. Language activity, achievements, and contribution activity are separated to keep each panel readable.</sub>
+<sub>Automatically refreshed by GitHub Actions. Language activity and contribution activity are updated automatically.</sub>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
+<div align="center">
 
 **Most-used Languages**
 
 <img src="./metrics-languages.svg" alt="Most-used programming languages" width="100%">
 
-</td>
-    <td width="50%" valign="top" align="center">
-
-**GitHub Achievements**
-
-<img src="./metrics-achievements.svg" alt="GitHub achievements" width="100%">
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
+<br>
 
 **Contribution Activity**
 

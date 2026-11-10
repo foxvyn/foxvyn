@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hey, I'm Foxvyn 👋
+# Hey, I'm Tio Muhammad Rizky 👋
 
 **Building ideas into intelligent solutions.**
 
